@@ -34,13 +34,16 @@ text-decoration: none;
 section{
 margin: 20px 0;
 }
-section#sobre,
-section#motocicletas,
-section#categoriademotores {
-background-color: #dbd7e0;
+section#sobreamarca
+section#motocicletas
+section#categoriademotores
+section#mediadepreçodeumaharleydavidson
+section#QualamelhorHarley-Davidson
+section#Finalização {
+background-color: #a980d3;
 padding: 20px;
 border-radius: 8px;
-box-shadow: 0 0 10px rgba(46, 35, 35, 0.1);
+box-sizing: 0 0 10px rgba(46, 35, 35, 0.1);
 }
 footer{
 text-align: center;
